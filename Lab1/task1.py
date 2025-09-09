@@ -9,7 +9,7 @@ path2 = os.path.abspath(fname2)
 
 print('copying ', path, 'to ', path2)
 
-blocksize = 32
+blocksize = 16
 totalsize = 0
 loopCount = 0
 
